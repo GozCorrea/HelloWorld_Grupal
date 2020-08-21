@@ -3,3 +3,5 @@
 
 Guzman Correa
 Martin Perciante
+Nicolas Lozano
+Sonia Olivera
